@@ -1,5 +1,4 @@
 import time
-from multiprocessing.reduction import send_handle
 import pyautogui
 import pandas
 from time import sleep
